@@ -5,3 +5,5 @@ Purchase Menu and Drink
 answer door
 pay delivery driver
 EAT PIZZA!!!
+Thirsty ?
+Order a Drink
